@@ -1,6 +1,6 @@
 ---
 
-# FastLocation 📍
+# FastLocation 
 
 FastLocation é um aplicativo móvel desenvolvido em Flutter que permite realizar consultas de endereços a partir de um CEP, além de buscar CEPs com base em endereços completos ou parciais. O aplicativo foi projetado para a empresa **FastDelivery**, que busca otimizar suas entregas, facilitando a consulta rápida de endereços e reduzindo atrasos causados por informações incorretas.
 
