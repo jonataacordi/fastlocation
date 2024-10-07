@@ -37,17 +37,21 @@ Para instalar e executar o FastLocation, siga os passos abaixo:
    ```bash
    git clone https://github.com/usuario/fastlocation.git
    ```
-2. Navegue até o diretório do projeto e instale as dependências:
+2. Acesse o diretório do projeto: Navegue até a pasta onde o projeto foi clonado:
+   ```bash
+   cd fastlocation
+   ```
+3. Instale as dependências: Certifique-se de que todas as bibliotecas necessárias estão instaladas executando
    ```bash
    flutter pub get
    ```
-3. Execute o projeto:
+4. Instale as dependências: Certifique-se de que todas as bibliotecas necessárias estão instaladas executando
    ```bash
    flutter run
    ```
 
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests para melhorias.
+Agradecemos por seu interesse em contribuir! Sinta-se à vontade para abrir issues para relatar problemas ou sugerir melhorias, além de enviar pull requests com suas alterações. Sua colaboração é muito apreciada!
 
 ---
