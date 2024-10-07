@@ -31,13 +31,9 @@ FastLocation é um aplicativo móvel desenvolvido em Flutter que permite realiza
 
 ## Instalação e Execução
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/usuario/fastlocation.git
+Para instalar e executar o FastLocation, siga os passos abaixo:
 
-## Instalação e Execução
-
-1. Clone o repositório:
+1. **Clone o repositório**: Faça uma cópia local do projeto utilizando o comando:
    ```bash
    git clone https://github.com/usuario/fastlocation.git
    ```
